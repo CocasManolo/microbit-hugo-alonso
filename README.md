@@ -1,5 +1,7 @@
 
 > Abra esta pagina en [https://cocasmanolo.github.io/microbit-hugo-alonso/](https://cocasmanolo.github.io/microbit-hugo-alonso/)
+# Descripcion
+ Lo que hace el código es que cuando clicas en "a" se van sumando las veces que le das. Y al final mostrará el número de veces que le has dado a la "a" :open_mouth:
 
 ## Usar como extensión
 
